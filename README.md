@@ -1,1 +1,3 @@
+in progress...
 
+hoping to make a bot that does something useful in my groupchat
